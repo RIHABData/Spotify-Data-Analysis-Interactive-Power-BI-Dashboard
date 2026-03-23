@@ -12,13 +12,6 @@ An interactive Power BI dashboard was developed using advanced DAX measures (KPI
 
 ---
 
-## DATA PIPELINE
-
-![Data Pipeline Spotify](datapipeline.png)
-
-
----
-
 ## 🧰 TOOLS & TECHNOLOGIES
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -69,7 +62,7 @@ An interactive Power BI dashboard was developed using advanced DAX measures (KPI
 ---
 
 ## Dashboard Preview
-![Spotify Dashboard](datapipeline.png)
+![Spotify Dashboard](spotifydashboard.png)
 
 ## 🚀 Live Portfolio  
 👉 **Portfolio Link **: https://rihabdata.github.io/RIHABM.github.io/
